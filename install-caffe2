@@ -1,0 +1,9 @@
+Install caffe2
+
+https://blog.csdn.net/yan_joy/article/details/70241319
+
+Eigen3 error
+https://stackoverflow.com/questions/49082293/error-related-to-eigen-while-installing-caffe2
+
+MPI undefined reference to symbol 
+https://github.com/caffe2/caffe2/issues/2144
