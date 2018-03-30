@@ -7,3 +7,6 @@ https://stackoverflow.com/questions/49082293/error-related-to-eigen-while-instal
 
 MPI undefined reference to symbol 
 https://github.com/caffe2/caffe2/issues/2144
+
+ImportError: No module named past.builtins
+sudo pip install future
